@@ -1,0 +1,1 @@
+{"version":3,"file":"file.js","sourceRoot":"","sources":["../../src/shared/file.ts"],"names":[],"mappings":"","sourcesContent":["export interface File {\r\n    originalPath: string;\r\n    relativePath: string;\r\n    path: string;\r\n    sourceMap: string;\r\n}\r\n"]}
